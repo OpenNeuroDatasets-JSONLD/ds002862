@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+dwi/sub-047EPKL013064_ses-2_acq-pa_dwi.nii.gz	2016-07-05T14:15:02	n/a	76d6d935
+func/sub-047EPKL013064_ses-2_task-read_run-01_bold.nii.gz	2016-07-05T14:18:52	n/a	e1071754
+func/sub-047EPKL013064_ses-2_task-read_run-02_bold.nii.gz	2016-07-05T14:25:52	n/a	ec7c70dd
+func/sub-047EPKL013064_ses-2_task-read_run-03_bold.nii.gz	2016-07-05T14:32:29	n/a	e3471e88
