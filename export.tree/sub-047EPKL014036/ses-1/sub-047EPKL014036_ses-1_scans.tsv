@@ -1,0 +1,4 @@
+filename	acq_time	operator	randstr
+anat/sub-047EPKL014036_ses-1_T1w.nii.gz	2015-09-07T11:52:05	n/a	e2baf4c1
+dwi/sub-047EPKL014036_ses-1_acq-ap_dwi.nii.gz	2015-09-07T11:54:20	n/a	78cb3489
+dwi/sub-047EPKL014036_ses-1_acq-pa_dwi.nii.gz	2015-09-07T11:58:20	n/a	596380d7

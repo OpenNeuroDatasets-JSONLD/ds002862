@@ -1,0 +1,6 @@
+filename	acq_time	operator	randstr
+func/sub-047EPKL012071_ses-2_task-read_run-01_bold.nii.gz	2016-08-03T10:26:32	n/a	94dd8f97
+func/sub-047EPKL012071_ses-2_task-read_run-02_bold.nii.gz	2016-08-03T10:34:08	n/a	6ad342c1
+func/sub-047EPKL012071_ses-2_task-read_run-03_bold.nii.gz	2016-08-03T10:40:23	n/a	18e74cf8
+dwi/sub-047EPKL012071_ses-2_acq-ap_dwi.nii.gz	2016-08-03T10:48:23	n/a	c3075f66
+dwi/sub-047EPKL012071_ses-2_acq-pa_dwi.nii.gz	2016-08-03T10:52:24	n/a	c731432d
